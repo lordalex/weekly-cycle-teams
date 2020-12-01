@@ -1,0 +1,33 @@
+Weekly report and doc Work-flow# Weekly report and doc Work-flow 
+
+## Daily report (Monday to Friday 10 min)
+### Please answer the following  questions:
+1. What did I do today?
+
+2. What is getting in your way or keeping you from doing your job? IE: Lack of hardware, software, equipment, etc.
+
+3. (Optional) Are you facing any technical uncertainties, doing any research on a specific area or improving a procedure to achieve your objective?
+
+
+# Weekly commit  (Thursdays)
+1. Commits of any code done should be done every Thursday.
+2. Code should be properly commented with short descriptions.
+3. GIT repo should have 3 repos :  Production, Staging, Edge.
+	1. **Production:** Finalized code, well documented, it works, no bugs.
+	2. **Staging:** Code works, testing code, it works
+	3. **EDGE:** Can have bugs, early testing.
+
+
+
+## R&D log (Thursdays as long as it takes)
+
+1. Was there a scientific or a technological uncertainty that could not be removed by standard practice/engineering?
+
+2. Did the effort involve formulating a hypothesis specifically aimed at reducing or eliminating the uncertainty?
+
+3. Was the adopted procedure consistent with the total discipline of the scientific method, including formulating, testing, and modifying the hypothesis?
+
+4. Did the process result in a scientific or technological advancement?
+
+5. Was a record of the hypothesis tested and results kept as the work progressed?
+
