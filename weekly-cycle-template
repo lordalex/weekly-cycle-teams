@@ -1,5 +1,4 @@
-Weekly report and doc Work-flow# Weekly report and doc Work-flow 
-
+# # Weekly report and  work-flow template 
 ## Daily report (Monday to Friday 10 min)
 ### Please answer the following  questions:
 1. What did I do today?
@@ -31,3 +30,38 @@ Weekly report and doc Work-flow# Weekly report and doc Work-flow
 
 5. Was a record of the hypothesis tested and results kept as the work progressed?
 
+- - - -
+
+ 
+# Rapport hebdomadaire et modèle de flux de travail 
+
+## Rapport quotidien (du lundi au vendredi 10 min)
+### Merci de répondre aux questions suivantes:
+1. Sur quoi avez-vous travaillé aujourd'hui?
+
+2. Qu'est-ce qui vous gêne ou vous empêche de faire votre travail? IE: Manque de matériel, de logiciels, d'équipement, etc.
+
+3. (Facultatif) Faites-vous face à des incertitudes techniques, faites-vous des recherches sur un domaine spécifique ou améliorez-vous une procédure pour atteindre votre objectif?
+
+
+# Engagement hebdomadaire (jeudi)
+1. Les validations de tout code effectué doivent être effectuées tous les jeudis.
+2. Le code doit être correctement commenté avec de courtes descriptions.
+3. Le dépôt GIT doit avoir 3 dépôts: Production, Staging, Edge.
+1. ** Production: ** Code finalisé, bien documenté, ça marche, pas de bugs.
+2. ** Mise en scène: ** Le code fonctionne, teste le code, cela fonctionne
+3. ** EDGE: ** Peut avoir des bogues, des tests précoces.
+
+
+
+## Journal de R&D (les jeudis aussi longtemps que nécessaire)
+
+1. Y avait-il une incertitude scientifique ou technologique qui ne pouvait pas être éliminée par la pratique standard / l'ingénierie?
+
+2. L'effort a-t-il consisté à formuler une hypothèse visant spécifiquement à réduire ou à éliminer l'incertitude?
+
+3. La procédure adoptée était-elle cohérente avec la discipline totale de la méthode scientifique, y compris la formulation, le test et la modification de l'hypothèse?
+
+4. Le processus a-t-il abouti à un progrès scientifique ou technologique?
+
+5. Un enregistrement de l'hypothèse testée et des résultats a-t-il été conservé au fur et à mesure de l'avancement des travaux?
